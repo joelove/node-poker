@@ -1,0 +1,22 @@
+{
+  "name": "node-poker",
+  "version": "0.0.1-a",
+  "description": "A text-based poker game written in Node.js for IRC",
+  "main": "start.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:joelove/node-poker.git"
+  },
+  "keywords": [
+    "poker",
+    "irc"
+  ],
+  "author": "Joe Love",
+  "license": "GPL v2",
+  "bugs": {
+    "url": "https://github.com/joelove/node-poker/issues"
+  }
+}

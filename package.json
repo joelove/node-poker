@@ -18,5 +18,9 @@
   "license": "GPL v2",
   "bugs": {
     "url": "https://github.com/joelove/node-poker/issues"
+  },
+  "devDependencies": {
+    "karma-jasmine": "~0.1.5",
+    "karma-phantomjs-launcher": "~0.1.4"
   }
 }
